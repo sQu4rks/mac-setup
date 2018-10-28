@@ -4,19 +4,24 @@ homebrew_installed_packages:
   - ant
   - dockutil
   - gdbm
+  - gettext
   - ghostscript
+  - git
+  - htop
   - jpeg
   - libevent
   - libtiff
   - ncurses
   - openssl
+  - pcre2
   - python
   - readline
   - sqlite
+  - telnet
   - tmux
   - xz
   - zsh
-
+  
 homebrew_taps:
   - caskroom/cask
   - caskroom/versions
@@ -26,7 +31,7 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - atom
   - chromedriver
-  - clion 
+  - clion
   - docker
   - dropbox
   - firefox
@@ -34,9 +39,9 @@ homebrew_cask_apps:
   - intellij-idea
   - java
   - mactex
-  - macvim 
+  - macvim
   - pycharm
-  - slack 
+  - slack
   - spectacle
   - spotify
   - telegram
