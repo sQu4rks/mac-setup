@@ -2,6 +2,8 @@
 
 This is my mac setup. 
 
+This is a fork of [@ricbra](https://github.com/ricbra)'s mac setup which, in turn, is a fork of [@gerlingguy](https://github.com/geerlingguy)'s mac setup script.
+
 For installation:
 
     $ xcode-select --install
