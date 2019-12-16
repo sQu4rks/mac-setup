@@ -39,6 +39,7 @@ homebrew_cask_apps:
   - macvim
   - spectacle
   - spotify
+  - postman
 
 dockitems_to_remove:
   - Launchpad
