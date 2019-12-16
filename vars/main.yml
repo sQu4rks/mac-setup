@@ -1,7 +1,6 @@
 ---
 homebrew_install_path: /usr/local/homebrew
 homebrew_installed_packages:
-  - ant
   - dockutil
   - gdbm
   - gettext
@@ -31,22 +30,15 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - atom
   - chromedriver
-  - clion
   - docker
   - dropbox
   - firefox
   - google-chrome
-  - intellij-idea
   - java
   - mactex
   - macvim
-  - pycharm
-  - slack
   - spectacle
   - spotify
-  - telegram
-  - texmaker
-  - whatsapp
 
 dockitems_to_remove:
   - Launchpad
@@ -72,24 +64,9 @@ dockitems_to_persist:
   - name: Firefox
     path: "/Applications/Firefox.app"
     pos: 2
-  - name: PyCharm
-    path: "/Applications/PyCharm.app"
-    pos: 3
-  - name: IntelliJ Idea
-    path: "/Application/IntelliJ IDEA.app"
-    pos: 4
-  - name: CLion
-    path: /Applications/CLion.app
-    pos: 5
   - name: Terminal
     path: /Applications/Utilities/Terminal.app
-    pos: 6
-  - name: Slack
-    path: /Applications/Slack.app
-    pos: 7
-  - name: Keynote
-    path: /Applications/Keynote.app
-    pos: 8
+    pos: 3
   - name: Spotify
     path: /Applications/Spotify.app
-    pos: 9
+    pos: 4
